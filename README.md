@@ -13,9 +13,6 @@ Ideas considered (heavily borrowing from express/connect):
   - set a generic pageNotFound HandlerFunc
   - handlers are regular `http.HandlerFunc` to be compatible with go
 
-[](
-[![Build Status](https://drone.io/github.com/lufia/router/status.png)](https://drone.io/github.com/lufia/router/latest)
-)
 [![GoDoc](https://godoc.org/github.com/lufia/router?status.svg)](https://godoc.org/github.com/lufia/router)
 
 
