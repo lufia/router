@@ -14,9 +14,9 @@ Ideas considered (heavily borrowing from express/connect):
   - handlers are regular `http.HandlerFunc` to be compatible with go
 
 [](
-[![Build Status](https://drone.io/github.com/toonketels/router/status.png)](https://drone.io/github.com/toonketels/router/latest)
+[![Build Status](https://drone.io/github.com/lufia/router/status.png)](https://drone.io/github.com/lufia/router/latest)
 )
-[![GoDoc](https://godoc.org/github.com/toonketels/router?status.svg)](https://godoc.org/github.com/toonketels/router)
+[![GoDoc](https://godoc.org/github.com/lufia/router?status.svg)](https://godoc.org/github.com/lufia/router)
 
 
 Quickstart
@@ -28,7 +28,7 @@ After installing Go and setting up your [GOPATH](http://golang.org/doc/code.html
 package main
 
 import (
-	"github.com/toonketels/router"
+	"github.com/lufia/router"
 	"net/http"
 )
 
@@ -51,7 +51,7 @@ func main() {
 
 Then install the router package:
 ~~~
-go get github.com/toonketels/router
+go get github.com/lufia/router
 ~~~
 
 Then run your server:
