@@ -1,3 +1,5 @@
+**This package has been deprecated and is no longer maintained. Use stdlib instead.**
+
 Router
 ===========================
 
